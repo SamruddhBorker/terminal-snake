@@ -1,5 +1,7 @@
 # terminal-snake
 
+[![tests](https://github.com/SamruddhBorker/terminal-snake/actions/workflows/tests.yml/badge.svg)](https://github.com/SamruddhBorker/terminal-snake/actions/workflows/tests.yml)
+ 
 Classic Snake in your terminal. Pure Python standard library, no installs.
 
 ```bash
