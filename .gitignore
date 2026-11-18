@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.mp4
+*.wav
+data.json
+.organizer_log.json
